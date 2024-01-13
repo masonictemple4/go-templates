@@ -2,7 +2,7 @@
 Repository of common Go project layout templates used to generate new projects with the `go-new` tool.
 
 ### Getting started
-Verify that you have installed [go new]() by first running:
+Verify that you have installed [go new](https://go.dev/blog/gonew) by first running:
 
 `$ gonew` 
 
