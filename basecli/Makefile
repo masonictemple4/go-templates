@@ -14,7 +14,7 @@ endif
 
 # This is the default target when `make` is run without arguments
 install: 
-	go install && $(args)
+	go install
 
 # Build will create the BIN_DIR first if it does not exist
 # Then create a binary inside of the destination.
